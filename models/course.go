@@ -11,7 +11,7 @@ type (
 		CourseUnits         uint   `json:"course_units"`
 		CourseDescription   string `json:"course_description"`
 		CourseType          string `json:"course_type"`
-		CourseIsVisible     int    `json:"course_is_visible"`
-		CourseAcceptComment int    `json:"course_accept_comment"`
+		CourseIsVisible     bool   `json:"course_is_visible"`
+		CourseAcceptComment bool   `json:"course_accept_comment"`
 	}
 )

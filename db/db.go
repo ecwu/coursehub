@@ -33,6 +33,7 @@ func Init() {
 
 	db.AutoMigrate(
 		&models.CourseModel{},
+		&models.GroupModel{},
 	)
 }
 
