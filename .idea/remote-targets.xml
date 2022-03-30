@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="d558ca6c-f435-4825-8961-72948d9a6331" />
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="d558ca6c-f435-4825-8961-72948d9a6331">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="/mnt/d/DevTools/apps/Goland/ch-0/213.7172.22/jbr/bin&#10;/coursehub" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/ecwu/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

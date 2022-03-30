@@ -1,0 +1,5 @@
+address = "10.0.0.1"
+port = 3306
+database = "course_hub"
+username = "your_username"
+password = "your_password"
